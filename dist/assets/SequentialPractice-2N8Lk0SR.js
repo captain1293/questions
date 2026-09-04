@@ -1,0 +1,1 @@
+import{P as e}from"./PracticeSession-BFrpgMe2.js";import{p as s,s as t,l as a,b as r,o}from"./index-BH8Euoxg.js";import"./constants-BCEgRfeh.js";import"./QuestionCard-DkbjnMwP.js";const _={__name:"SequentialPractice",setup(c){return s(()=>{t.practice.list.length===0&&a("sequential",[...t.questions])}),(i,n)=>(o(),r(e))}};export{_ as default};

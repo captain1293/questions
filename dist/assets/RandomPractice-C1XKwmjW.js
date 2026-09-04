@@ -1,0 +1,1 @@
+import{P as o}from"./PracticeSession-BFrpgMe2.js";import{p as r,s as t,l as a,b as e,o as s}from"./index-BH8Euoxg.js";import"./constants-BCEgRfeh.js";import"./QuestionCard-DkbjnMwP.js";const u={__name:"RandomPractice",setup(c){return r(()=>{t.practice.list.length===0&&a("random",[...t.questions])}),(i,n)=>(s(),e(o))}};export{u as default};
